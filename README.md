@@ -1,4 +1,4 @@
-# SEMTA
+# SEMTA Prototype
 MATLAB project for prototype SEMTA device
 
 ## Overview
